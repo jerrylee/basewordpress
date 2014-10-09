@@ -2,6 +2,7 @@
 //Enqueue Styles
 function enqueue_styles() {
     wp_enqueue_style('bootstrap_styles', get_template_directory_uri() . '/css/bootstrap.css');
+    wp_enqueue_style('google_fonts', 'http://fonts.googleapis.com/css?family=Raleway:400,100,300,500,700|Open+Sans:400,300,600,800');
     wp_enqueue_style('custom_styles', get_template_directory_uri() . '/css/styles.css');
 }
 

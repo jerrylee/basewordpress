@@ -18,7 +18,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-sm-2">
-                    LOGO
+                    <img src="http://fashionhouseglobal.com/wp-content/uploads/2013/04/fashion-house-global-final.jpg" alt="" class="img-responsive">
                 </div>
                 <div class="col-sm-8">
                     NAV
